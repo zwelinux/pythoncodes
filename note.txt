@@ -1,7 +1,8 @@
--> Datatypes -> string, int, float 
--> buitin function -> print(), int(), str(), input(), type() 
--> variable 
-   dont -> number နဲ့ စမပေးရဘူး
-        -> special char နဲ့ စမပေးရဘူး
-        -> programming keywords တွေမပါရဘူး
-        -> space မခြားရဘူး 
++ Basic Syntax 
++ Datatypes int, str, bool, float 
++ builtin function 
++ condition 
++ loop 
++ data structures 
++ function 
++ class 
